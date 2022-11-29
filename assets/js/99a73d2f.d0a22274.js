@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklink_orbdoc=self.webpackChunklink_orbdoc||[]).push([[7396],{651:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/LinkOrbdoc/blog/tags/hello","allTagsPath":"/LinkOrbdoc/blog/tags","count":2}')}}]);
